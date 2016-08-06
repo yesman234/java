@@ -1,0 +1,9 @@
+package ok;
+
+public class Manager extends Employee {
+public static void main(String args[])
+{
+	Employee e= new Manager();
+	System.out.println(e.getAge());
+}
+}

@@ -1,0 +1,8 @@
+package ok;
+
+public class Derived2 extends Base {
+	Derived2 (int val) {
+		v=val;
+	}
+
+}

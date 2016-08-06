@@ -1,0 +1,23 @@
+package ok;
+public  class Employee {
+	
+	public static void main(String[] s)
+	{
+		
+		char ch='A';
+		switch (ch)
+		{
+		case 'A': {
+		System.out.println("A");
+		break;
+		}
+		case 65:{
+			System.out.println((int) 'A');
+			break;
+		}
+		
+		}
+	}
+
+
+}

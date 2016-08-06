@@ -1,0 +1,18 @@
+package ok;
+public  class Employee {
+	public static void main(String args[])
+	{
+		int Direction=3;
+		String str;
+		switch(Direction)
+		{
+		case 1: str="South";break;
+		case 2: str="N";break;
+		case 3: str="E";break;
+		case 4: str="W";break;
+		default: str="invalid direction";break;
+		}
+		System.out.println(str);
+	}
+
+}

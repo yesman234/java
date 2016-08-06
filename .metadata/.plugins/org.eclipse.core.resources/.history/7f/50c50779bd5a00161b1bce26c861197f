@@ -1,0 +1,18 @@
+package ok;
+public  class Employee {
+	
+	public static void main(String args[])
+	{
+		int x=10;
+		do{
+			System.out.println("do...while"+x--);
+		} while(false);
+		while(false)
+		{
+			System.out.println("while...");
+		
+		
+		}
+	}
+}
+

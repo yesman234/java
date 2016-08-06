@@ -1,0 +1,18 @@
+package ok;
+public  class Employee {
+	
+	public static void main(String args[])
+	{
+		int p=10;
+		
+		switch (5)
+		{
+		case 20:p+=1;
+		case 40:p+=2;
+		default:p+=3;
+		case 10:p += 4;
+		}
+		System.out.println(p);
+	}
+
+}

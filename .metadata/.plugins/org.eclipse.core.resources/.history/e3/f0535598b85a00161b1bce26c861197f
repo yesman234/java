@@ -1,0 +1,6 @@
+package ok;
+
+public class Base {
+int v;
+
+}

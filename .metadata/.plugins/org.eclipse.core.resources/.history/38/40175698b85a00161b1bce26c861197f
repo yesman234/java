@@ -1,0 +1,6 @@
+
+import java.util.*;
+package ok;
+public abstract interface Vehicle {
+
+}

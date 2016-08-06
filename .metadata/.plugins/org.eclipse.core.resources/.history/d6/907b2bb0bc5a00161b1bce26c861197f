@@ -1,0 +1,19 @@
+package ok;
+public  class Employee {
+	
+	public static void main(String args[])
+	{
+		int p=15;
+		int i=4;
+		switch (i)
+		{
+		case 1:System.out.println(p);
+		case 2:System.out.println(p++);
+		case 3:System.out.println(p++);
+		case 4:System.out.println(p++);
+		case 5:System.out.println(p++);
+		default: System.out.println("invalid");
+		}
+	}
+
+}

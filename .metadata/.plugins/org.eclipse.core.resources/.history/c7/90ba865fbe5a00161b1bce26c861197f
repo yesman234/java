@@ -1,0 +1,17 @@
+package ok;
+public  class Employee {
+	
+	public static void main(String args[])
+	{
+		int x=5;
+		for (int i=1; i<10; i++);
+		switch(i) {
+		case 5: System.out.println(i);
+		default: System.out.println(i);
+		}
+		
+		
+		}
+	}
+
+

@@ -1,0 +1,14 @@
+package ok;
+
+ class BB extends AA{
+	public BB(){System.out.print("BB constructor");
+
+}
+public void displayMethod(){
+	//comment
+	System.out.println("BB displayMethod");
+}
+public static void main(String args[]){
+	BB b= new BB();
+	b.displayMethod();
+}}

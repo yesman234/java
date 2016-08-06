@@ -1,0 +1,27 @@
+
+public class Quiz {
+	
+	private int a;
+	public void showValue()
+	{
+		char[] val;
+		System.out.println(a);
+	}
+public void Display()
+{
+	System.out.println("idsidisfdisdisid");
+}
+public class Test
+{
+	
+}
+	public static void main(String[] args) {
+		Quiz d = new Quiz ();
+		d.showValue();
+		d.a=5;
+		
+		// TODO Auto-generated method stub
+
+	}
+
+}

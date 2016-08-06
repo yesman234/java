@@ -1,0 +1,15 @@
+import java.util.Scanner;
+public class Employee {
+
+	public static void main(String[] args) {
+		Scanner input = ( new Scanner( System.in ) );
+		// TODO Auto-generated method stub
+		String employeeName="name";
+		int employeeid=(0);
+		String status="married";
+
+		
+		System.out.print("please enter your Name, id, marrital status, and department");
+	}
+
+}

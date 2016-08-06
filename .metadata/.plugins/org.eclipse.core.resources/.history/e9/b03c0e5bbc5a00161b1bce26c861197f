@@ -1,0 +1,18 @@
+package ok;
+public  class Employee {
+	final static int i=2;
+	public static int j=0;
+	public static void main(String args[])
+	{
+		for (int k=0; k<3; k++)
+		{
+			switch (k)
+			{case i: i=i+1; break;
+			case i-1:System.out.println("i="+i);
+			break;
+			default: System.out.println("j="+j);
+			}
+		}
+	}
+
+}

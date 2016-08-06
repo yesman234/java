@@ -1,0 +1,15 @@
+package ok;
+public  class Employee {
+	
+	public static void main(String[] s)
+	{
+		
+		
+		
+		int a=5, b=4;
+		if ((b==a++) && (a<++b)) {}
+		System.out.println(a +""+b);
+	}
+
+
+}

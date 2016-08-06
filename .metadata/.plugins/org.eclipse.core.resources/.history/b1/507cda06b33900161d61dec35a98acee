@@ -1,0 +1,17 @@
+
+public class Parent {
+	public Parent()
+	{
+		System.out.println("drfsefvsdfser");
+		
+	}
+
+}
+class Child extends Parent
+{
+	public Child()
+	{
+		System.out.println("ergerfrfe");
+	}
+	
+}

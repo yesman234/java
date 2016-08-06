@@ -1,0 +1,26 @@
+import java.util.Scanner;
+public class Employee {
+
+	
+	
+	Scanner input = ( new Scanner( System.in ) );
+
+	private String employeeName;
+public String Name(){
+	return Name();}
+	
+public void setemployeeName(String name) {
+	       this.setEmployeeName(name);
+	       System.out.print("please enter your Name, id, marrital status, and department");
+	    }
+
+public String getEmployeeName() {
+	return employeeName;
+}
+
+public void setEmployeeName(String employeeName) {
+	this.employeeName = employeeName;
+}
+}
+	
+
